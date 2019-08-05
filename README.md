@@ -18,4 +18,4 @@ We have our word vectors in "bollywood.bin".
 
 Now we find some interesting relations such as: 
 
-If RANVEER is to DEEPIKA, then NICK is to _____________ , and our model will predict the suitable result.
+If RANVEER is to DEEPIKA, then NICK is to _____________ , and our model will predict the desired result.
