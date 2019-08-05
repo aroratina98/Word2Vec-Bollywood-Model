@@ -1,1 +1,1 @@
-# Word2Vec-Bollywood-Model
+# Word2Vec-Bollywood-Pretrained-Model
