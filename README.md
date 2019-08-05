@@ -1,6 +1,7 @@
 # Word2Vec-Bollywood-Pretrained-Model
 
 In the word analogy task, we complete the sentence "a is to b as c is to __".
+
 An example is 'MAN is to WOMAN as KING is to QUEEN' . In detail, we are trying to find a word d, such that the associated word vectors ea,eb,ec,ed are related in the following manner: eb−ea≈ed−ec. We will measure the similarity between eb−ea and ed−ec using cosine similarity.
 
 Examples-
