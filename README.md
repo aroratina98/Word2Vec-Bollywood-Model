@@ -12,7 +12,8 @@ india -> delhi ::     japan -> tokyo ,
 man -> woman ::     boy -> girl ,                                                               
 small -> smaller ::     large -> larger 
 
-Here we are training our own Word2Vec model. We picked some Bollywood news from Google as "bollywood_news.txt". 
+Here we are training our own Word2Vec model.                                                     
+We picked some Bollywood news from Google as "bollywood_news.txt".                                           
 We have our word vectors in "bollywood.bin". 
 
 Now we find some interesting relations such as: 
