@@ -6,9 +6,10 @@ An example is 'MAN is to WOMAN as KING is to QUEEN' . In detail, we are trying t
 
 Examples-
 
-man -> woman ::     prince -> princess    ,    italy -> italian ::     spain -> spanish                             
-india -> delhi ::     japan -> tokyo    ,    
-man -> woman ::     boy -> girl ,                                            
+man -> woman ::     prince -> princess ,                                           
+italy -> italian ::     spain -> spanish ,                                                                                                          
+india -> delhi ::     japan -> tokyo ,                                                
+man -> woman ::     boy -> girl ,                                                               
 small -> smaller ::     large -> larger 
 
 Here we are training our own Word2Vec model. We picked some Bollywood news from Google as "bollywood_news.txt". 
